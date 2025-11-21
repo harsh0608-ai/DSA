@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harsh0608-ai/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh0608-ai/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/harsh0608-ai/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harsh0608-ai/DSA/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/harsh0608-ai/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1014-k-closest-points-to-origin](https://github.com/harsh0608-ai/DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh0608-ai/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/harsh0608-ai/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harsh0608-ai/DSA/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/harsh0608-ai/DSA/tree/master/0189-rotate-array) |
 | [1014-k-closest-points-to-origin](https://github.com/harsh0608-ai/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
