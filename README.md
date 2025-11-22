@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harsh0608-ai/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harsh0608-ai/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/harsh0608-ai/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/harsh0608-ai/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harsh0608-ai/DSA/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/harsh0608-ai/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1014-k-closest-points-to-origin](https://github.com/harsh0608-ai/DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harsh0608-ai/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harsh0608-ai/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/harsh0608-ai/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/harsh0608-ai/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/harsh0608-ai/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/harsh0608-ai/DSA/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/harsh0608-ai/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/harsh0608-ai/DSA/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/harsh0608-ai/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -65,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/harsh0608-ai/DSA/tree/master/1014-k-closest-points-to-origin) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/harsh0608-ai/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/harsh0608-ai/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
