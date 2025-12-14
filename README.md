@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harsh0608-ai/DSA/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/harsh0608-ai/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/harsh0608-ai/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3765-complete-prime-number](https://github.com/harsh0608-ai/DSA/tree/master/3765-complete-prime-number) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/harsh0608-ai/DSA/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Divide and Conquer
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3765-complete-prime-number](https://github.com/harsh0608-ai/DSA/tree/master/3765-complete-prime-number) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/harsh0608-ai/DSA/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Brainteaser
 |  |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/harsh0608-ai/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Enumeration
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/harsh0608-ai/DSA/tree/master/3765-complete-prime-number) |
 <!---LeetCode Topics End-->
