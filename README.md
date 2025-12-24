@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harsh0608-ai/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harsh0608-ai/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/harsh0608-ai/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/harsh0608-ai/DSA/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/harsh0608-ai/DSA/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/harsh0608-ai/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harsh0608-ai/DSA/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/harsh0608-ai/DSA/tree/master/1014-k-closest-points-to-origin) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/harsh0608-ai/DSA/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
