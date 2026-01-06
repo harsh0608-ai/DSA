@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/harsh0608-ai/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/harsh0608-ai/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/harsh0608-ai/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/harsh0608-ai/DSA/tree/master/0704-binary-search) |
 | [1014-k-closest-points-to-origin](https://github.com/harsh0608-ai/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harsh0608-ai/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harsh0608-ai/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsh0608-ai/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/harsh0608-ai/DSA/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/harsh0608-ai/DSA/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/harsh0608-ai/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
