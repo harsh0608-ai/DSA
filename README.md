@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harsh0608-ai/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/harsh0608-ai/DSA/tree/master/0125-valid-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/harsh0608-ai/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -212,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/harsh0608-ai/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/harsh0608-ai/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/harsh0608-ai/DSA/tree/master/0073-set-matrix-zeroes) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/harsh0608-ai/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
