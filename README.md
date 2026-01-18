@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/harsh0608-ai/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/harsh0608-ai/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/harsh0608-ai/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/harsh0608-ai/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/harsh0608-ai/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harsh0608-ai/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/harsh0608-ai/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/harsh0608-ai/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/harsh0608-ai/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harsh0608-ai/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/harsh0608-ai/DSA/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/harsh0608-ai/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/harsh0608-ai/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
