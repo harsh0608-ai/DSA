@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/harsh0608-ai/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/harsh0608-ai/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/harsh0608-ai/DSA/tree/master/1014-k-closest-points-to-origin) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harsh0608-ai/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harsh0608-ai/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harsh0608-ai/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harsh0608-ai/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -86,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harsh0608-ai/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/harsh0608-ai/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harsh0608-ai/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harsh0608-ai/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/harsh0608-ai/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/harsh0608-ai/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harsh0608-ai/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harsh0608-ai/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
