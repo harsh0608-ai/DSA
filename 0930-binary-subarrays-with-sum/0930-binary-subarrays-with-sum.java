@@ -1,16 +1,30 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-        HashMap<Integer,Integer>map=new HashMap<>();
-        map.put(0,1);
-        int sum=0;
-        int ans=0;
-        for(int i=0;i<nums.length;i++){
-            sum+=nums[i];
-            if(map.containsKey(sum-goal)){
-                ans+=map.get((sum-goal));
+        return atMost(nums,goal) - atMost(nums,goal-1);
+    }
+    private int atMost(int[] nums, int k) {
+        // No valid subarray for negative sum
+        if (k < 0) return 0;
+
+        int left = 0;
+        int sum = 0;
+        int count = 0;
+
+        // Traverse array using right pointer
+        for (int right = 0; right < nums.length; right++) {
+            // Add current element to sum
+            sum += nums[right];
+
+            // Shrink window if sum exceeds k
+            while (sum > k) {
+                sum -= nums[left];
+                left++;
             }
-            map.put(sum,map.getOrDefault(sum,0)+1);
+
+            // Add number of valid subarrays ending at right
+            count += (right - left + 1);
         }
-        return ans;
+
+        return count;
     }
 }
