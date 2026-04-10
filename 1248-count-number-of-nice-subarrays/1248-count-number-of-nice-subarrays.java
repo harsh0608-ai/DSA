@@ -1,21 +1,16 @@
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
-        return countNice(nums,k)-countNice(nums,k-1);
-    }
-    private int countNice(int nums[], int k){
-        int l=0;
-        int r=0;
-        int count=0;
+        HashMap<Integer,Integer>hm=new HashMap<>();
+        hm.put(0,1);
         int sum=0;
-        while(r<nums.length){
-            sum+=nums[r]%2;
-            while(sum>k){
-                sum-=nums[l]%2;
-                l++;
+        int ans=0;
+        for(int i=0;i<nums.length;i++){
+            sum+=nums[i]%2;
+            if(hm.containsKey(sum-k)){
+                ans+=hm.get(sum-k);
             }
-            count+=(r-l+1);
-            r++;
+            hm.put(sum,hm.getOrDefault(sum,0)+1);
         }
-        return count;
+        return ans;
     }
 }
