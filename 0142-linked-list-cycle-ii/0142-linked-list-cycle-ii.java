@@ -26,9 +26,7 @@ public class Solution {
             return null;
         }
         slow=head;
-        ListNode prev=null;
         while(slow!=fast){
-            prev=fast;
             slow=slow.next;
             fast=fast.next;
         }
