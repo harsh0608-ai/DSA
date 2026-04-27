@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/harsh0608-ai/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/harsh0608-ai/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harsh0608-ai/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/harsh0608-ai/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/harsh0608-ai/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsh0608-ai/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/harsh0608-ai/DSA/tree/master/0189-rotate-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harsh0608-ai/DSA/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/harsh0608-ai/DSA/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/harsh0608-ai/DSA/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harsh0608-ai/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/harsh0608-ai/DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/harsh0608-ai/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/harsh0608-ai/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harsh0608-ai/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/harsh0608-ai/DSA/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/harsh0608-ai/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harsh0608-ai/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/harsh0608-ai/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/harsh0608-ai/DSA/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/harsh0608-ai/DSA/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harsh0608-ai/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harsh0608-ai/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/harsh0608-ai/DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/harsh0608-ai/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/harsh0608-ai/DSA/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harsh0608-ai/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
