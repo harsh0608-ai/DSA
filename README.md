@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harsh0608-ai/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harsh0608-ai/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/harsh0608-ai/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/harsh0608-ai/DSA/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/harsh0608-ai/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh0608-ai/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/harsh0608-ai/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/harsh0608-ai/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harsh0608-ai/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/harsh0608-ai/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2784-check-if-array-is-good](https://github.com/harsh0608-ai/DSA/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/harsh0608-ai/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh0608-ai/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harsh0608-ai/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/harsh0608-ai/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1014-k-closest-points-to-origin](https://github.com/harsh0608-ai/DSA/tree/master/1014-k-closest-points-to-origin) |
+| [2784-check-if-array-is-good](https://github.com/harsh0608-ai/DSA/tree/master/2784-check-if-array-is-good) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/harsh0608-ai/DSA/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Heap (Priority Queue)
 |  |
