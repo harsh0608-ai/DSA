@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/harsh0608-ai/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harsh0608-ai/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harsh0608-ai/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harsh0608-ai/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harsh0608-ai/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harsh0608-ai/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harsh0608-ai/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harsh0608-ai/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/harsh0608-ai/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1014-k-closest-points-to-origin](https://github.com/harsh0608-ai/DSA/tree/master/1014-k-closest-points-to-origin) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harsh0608-ai/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/harsh0608-ai/DSA/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/harsh0608-ai/DSA/tree/master/2784-check-if-array-is-good) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/harsh0608-ai/DSA/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/harsh0608-ai/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1014-k-closest-points-to-origin](https://github.com/harsh0608-ai/DSA/tree/master/1014-k-closest-points-to-origin) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harsh0608-ai/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
