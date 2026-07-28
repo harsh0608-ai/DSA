@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/harsh0608-ai/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh0608-ai/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harsh0608-ai/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/harsh0608-ai/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harsh0608-ai/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/harsh0608-ai/DSA/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/harsh0608-ai/DSA/tree/master/2784-check-if-array-is-good) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/harsh0608-ai/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/harsh0608-ai/DSA/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Heap (Priority Queue)
 |  |
@@ -421,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/harsh0608-ai/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harsh0608-ai/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/harsh0608-ai/DSA/tree/master/0222-count-complete-tree-nodes) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/harsh0608-ai/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
