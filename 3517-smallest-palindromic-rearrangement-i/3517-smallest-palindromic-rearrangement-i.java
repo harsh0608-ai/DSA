@@ -2,6 +2,7 @@ class Solution {
 
     public String smallestPalindrome(String s) {
         int len = s.length();
+        if(len==1) return s;
         int partition = len / 2;
 
         char[] chars = s.toCharArray();
