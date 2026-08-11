@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/harsh0608-ai/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/harsh0608-ai/DSA/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/harsh0608-ai/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsh0608-ai/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh0608-ai/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/harsh0608-ai/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/harsh0608-ai/DSA/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/harsh0608-ai/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2784-check-if-array-is-good](https://github.com/harsh0608-ai/DSA/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/harsh0608-ai/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsh0608-ai/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/harsh0608-ai/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harsh0608-ai/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harsh0608-ai/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harsh0608-ai/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/harsh0608-ai/DSA/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/harsh0608-ai/DSA/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsh0608-ai/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harsh0608-ai/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/harsh0608-ai/DSA/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Heap (Priority Queue)
