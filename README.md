@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/harsh0608-ai/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/harsh0608-ai/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/harsh0608-ai/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/harsh0608-ai/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harsh0608-ai/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/harsh0608-ai/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3765-complete-prime-number](https://github.com/harsh0608-ai/DSA/tree/master/3765-complete-prime-number) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/harsh0608-ai/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3765-complete-prime-number](https://github.com/harsh0608-ai/DSA/tree/master/3765-complete-prime-number) |
 ## Recursion
 |  |
