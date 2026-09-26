@@ -13,7 +13,7 @@ class Solution {
             
             map.get(sortedWord).add(word);
         }
-        
-        return new ArrayList<>(map.values());
+        List<List<String>>ans=new ArrayList<>(map.values());
+        return ans;
     }
 }
